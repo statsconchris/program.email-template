@@ -1,4 +1,4 @@
-# nepy_emailWebdesign
-Basic code to create emails with HTML/CSS content. <br />
-Copy the code to your email. An extended introduction is given in the following link: http://www.nepy.pe/home/educacion/programacion/enviar-emails-usando-html-css-programacion-web-para-principiantes/ 
-(use Google Translate to read the content in Spanish).
+To read the instructions in english visit: [english version](https://github.com/statsconchris/email.webdesign/tree/english) 
+<hr />
+
+Para leer las instrucciones en español visitar: [versión en español](https://github.com/statsconchris/email.webdesign/tree/espanol)
