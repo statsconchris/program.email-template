@@ -1,4 +1,14 @@
-# nepy_emailWebdesign
-Basic code to create emails with HTML/CSS content. <br />
-Copy the code to your email. An extended introduction is given in the following link: http://www.nepy.pe/home/educacion/programacion/enviar-emails-usando-html-css-programacion-web-para-principiantes/ 
-(use Google Translate to read the content in Spanish).
+## email.webdesign : An email template developed in HTML
+To check the functionality of this code refer to the article: [nepy.pe/en/web.design.](http://www.nepy.pe/en/programming/algorithm-in-php-to-set-the-fifa-world-cup-draw/) 
+
+There are two ways to use this code:
+1. Website
+2. Wordpress
+
+### Website
+
+Download the file `algorithm_FIFA.php` and is ready to use.
+
+### Wordpress
+
+1. Copy the following code to `functions.php` page in your Wordpress theme
