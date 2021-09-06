@@ -1,14 +1,12 @@
-## email.webdesign : An email template developed in HTML
-To check the functionality of this code refer to the article: [nepy.pe/en/web.design.](http://www.nepy.pe/en/programming/algorithm-in-php-to-set-the-fifa-world-cup-draw/) 
+## email.webdesign
+### An HTML code to create responsive email layouts 
 
-There are two ways to use this code:
-1. Website
-2. Wordpress
+We have 3 files: 
 
-### Website
+1. index_blog.html : Ideal to share a new article in your blog.
+2. index_ecommerce.html: Ideal to share new products in your ecommerce site.
+3. index_message.html: Ideal to share a general message.
 
-Download the file `algorithm_FIFA.php` and is ready to use.
+To use the code, the most efficient way is to download the [cloudHQ](https://www.html-editor-for-gmail.com/) plugin.
 
-### Wordpress
-
-1. Copy the following code to `functions.php` page in your Wordpress theme
+Further details are given in the following post: [nepy.pe/en/web.email](http://www.nepy.pe/en/programming/send-emails-using-html-css-web-programming-for-beginners/). 
