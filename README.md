@@ -3,8 +3,8 @@
 
 Existen 3 ejemplos: 
 
-1. index_blog.html : El formato es ideal para compartir la publicación de un nuevo artículo en tu blog.
-2. index_ecommerce.html: El formato es ideal para compartir la publicación de nuevos productos en tu tienda virtual.
+1. index_blog.html : El formato es ideal para compartir un nuevo artículo en tu blog.
+2. index_ecommerce.html: El formato es ideal para compartir los nuevos productos de tu tienda virtual.
 3. index_message.html: El formato es ideal para compartir un mensaje general.
 
 Para hacer uso de los códigos, la forma más eficiente consiste en descargar el plugin [cloudHQ](https://www.html-editor-for-gmail.com/).
