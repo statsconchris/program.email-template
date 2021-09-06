@@ -1,4 +1,11 @@
-# nepy_emailWebdesign
-Basic code to create emails with HTML/CSS content. <br />
-Copy the code to your email. An extended introduction is given in the following link: http://www.nepy.pe/home/educacion/programacion/enviar-emails-usando-html-css-programacion-web-para-principiantes/ 
-(use Google Translate to read the content in Spanish).
+## email.webdesign
+### Un código en HTML para enviar emails responsivos con diseño usando Gmail
+
+Existen 3 ejemplos: 
+
+1. index_blog.html : El formato es ideal para compartir la publicación de un nuevo artículo en tu blog.
+2. index_ecommerce.html: El formato es ideal para compartir la publicación de nuevos productos en tu tienda virtual.
+3. index_message.html: El formato es ideal para compartir un mensaje general.
+
+Para hacer uso de los códigos, la forma más eficiente consiste en descargar el plugin [cloudHQ](https://www.html-editor-for-gmail.com/).
+Mayores detalles aparecen en el artículo [nepy.pe/es/web.email](http://www.nepy.pe/es/programacion/web/enviar-emails-usando-html-css-programacion-web-para-principiantes/). 
