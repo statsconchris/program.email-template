@@ -8,4 +8,5 @@ Existen 3 ejemplos:
 3. index_message.html: El formato es ideal para compartir un mensaje general.
 
 Para hacer uso de los códigos, la forma más eficiente consiste en descargar el plugin [cloudHQ](https://www.html-editor-for-gmail.com/).
+
 Mayores detalles aparecen en el artículo [nepy.pe/es/web.email](http://www.nepy.pe/es/programacion/web/enviar-emails-usando-html-css-programacion-web-para-principiantes/). 
