@@ -3,9 +3,9 @@
 
 We have 3 files: 
 
-1. index_blog.html : Ideal to share a new article in your blog.
-2. index_ecommerce.html: Ideal to share new products in your ecommerce site.
-3. index_message.html: Ideal to share a general message.
+1. index_blogEN.html : Ideal to share a new article in your blog.
+2. index_ecommerceEN.html: Ideal to share new products in your ecommerce site.
+3. index_messageEN.html: Ideal to share a general message.
 
 To use the code, the most efficient way is to download the [cloudHQ](https://www.html-editor-for-gmail.com/) plugin.
 
