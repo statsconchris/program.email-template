@@ -14,6 +14,6 @@ Para hacer uso de los códigos, la forma más eficiente consiste en descargar el
 
 **Información**
 
-- Mayores detalles sobre cómo usar el código aparecen en el artículo: 
+- Mayores detalles sobre cómo usar los códigos aparecen en el artículo: 
   
   [Enviar emails usando HTML & CSS. Programación web para principiantes](https://nepy.pe/article.php?pid=626d360ed2817&lan=es). 
