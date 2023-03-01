@@ -6,7 +6,7 @@ We show the most efficient way to send emails using HTML and CSS. Moreover, we p
 
 We have 3 examples
 
-1. `email-blog.html.html` is ideal to share the new article posted in your blog.
+1. `email-blog.html` is ideal to share the new article posted in your blog.
 2. `email-ecommerce.html` is ideal to share the new products of your ecommerce site.
 3. `email-message.html` is ideal to share a general message.
 
